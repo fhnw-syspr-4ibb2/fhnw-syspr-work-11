@@ -1,5 +1,5 @@
 # System-Programmierung
-## Hands-on zu Lektion 12
+## Hands-on zu Lektion 11
 Für Slides und Code Beispiele, siehe [Lektion 11](../../../fhnw-syspr/blob/master/11/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
